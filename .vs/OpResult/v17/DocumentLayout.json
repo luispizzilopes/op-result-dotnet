@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Projetos Pessoais\\OpResult\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Projetos Pessoais\\op-result-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D0F7EF-E2FA-407B-AE02-B0483279572F}|OpResult\\OpResult.csproj|c:\\users\\pc\\desktop\\projetos pessoais\\op-result-dotnet\\opresult\\exception\\resultexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D0F7EF-E2FA-407B-AE02-B0483279572F}|OpResult\\OpResult.csproj|solutionrelative:opresult\\exception\\resultexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D0F7EF-E2FA-407B-AE02-B0483279572F}|OpResult\\OpResult.csproj|c:\\users\\pc\\desktop\\projetos pessoais\\op-result-dotnet\\opresult\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D0F7EF-E2FA-407B-AE02-B0483279572F}|OpResult\\OpResult.csproj|solutionrelative:opresult\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos Pessoais\\op-result-dotnet\\OpResult\\Extensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "OpResult\\Extensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos Pessoais\\op-result-dotnet\\OpResult\\Extensions\\ResultExtensions.cs",
+              "RelativeToolTip": "OpResult\\Extensions\\ResultExtensions.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:03:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultException.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos Pessoais\\op-result-dotnet\\OpResult\\Exception\\ResultException.cs",
+              "RelativeDocumentMoniker": "OpResult\\Exception\\ResultException.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos Pessoais\\op-result-dotnet\\OpResult\\Exception\\ResultException.cs",
+              "RelativeToolTip": "OpResult\\Exception\\ResultException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:02:59.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
